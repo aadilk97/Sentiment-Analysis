@@ -1,1 +1,1 @@
-Classifying twitter tweets into classes
+Classifying twitter tweets into three classes using CNN.
